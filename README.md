@@ -99,4 +99,7 @@ Security is a major concern, and several measures are in place to ensure that th
 - **Limit Login Attempts Reloaded**: Safeguards against brute-force attacks by limiting login attempts.
 - **Secure Payment Gateways**: Stripe and PayPal processes payments securely using encryption methods compliant with PCI standards.
 
+## Design
 
+You can view the project design on Figma here:
+[E-commerce Project Design](https://www.figma.com/design/tDq15CkETqRF7NaFFHcnv0/E-commerce-Project?node-id=0-1&p=f&t=wNJLzkKPo9QdrbUD-0)
